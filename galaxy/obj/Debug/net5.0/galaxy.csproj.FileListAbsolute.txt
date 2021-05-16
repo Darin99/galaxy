@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\galaxy.exe
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\galaxy.deps.json
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\galaxy.runtimeconfig.json
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\galaxy.runtimeconfig.dev.json
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\galaxy.dll
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\ref\galaxy.dll
+C:\Users\User\source\repos\galaxy\bin\Debug\net5.0\galaxy.pdb
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.AssemblyInfo.cs
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.dll
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\ref\galaxy.dll
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.pdb
+C:\Users\User\source\repos\galaxy\obj\Debug\net5.0\galaxy.genruntimeconfig.cache
